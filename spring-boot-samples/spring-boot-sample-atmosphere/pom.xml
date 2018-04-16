@@ -5,6 +5,8 @@
 		<!-- Your own application should inherit from spring-boot-starter-parent -->
 <!-- Your own application should inherit from spring-boot-starter-parent -->
 <!-- Your own application should inherit from spring-boot-starter-parent -->
+<!-- Your own application should inherit from spring-boot-starter-parent -->
+
 
 
 		<groupId>org.springframework.boot</groupId>
